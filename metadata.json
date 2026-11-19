@@ -1,0 +1,8 @@
+{
+  "name": "武侠放置",
+  "description": "水墨武侠放置游戏，含修炼、垂钓、烹饪、农田、切磋、羁绊与入梦挑战。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
